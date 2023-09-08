@@ -1,6 +1,6 @@
 ---
-author: GMEX
-title: Welcome to GMEX 👋
-date: 2023-09-09
+author: John Doe
+title: Home of John Doe 👋
+date: 2021-04-24
 ---
 
