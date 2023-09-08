@@ -1,0 +1,28 @@
+theme = "showfolio"
+languageCode = "en-us"
+baseurl = "https://example.com"
+title = "GMEX"
+
+[params]
+  name = "Showfolio Theme"
+  description = "Modern portfolio theme for your Hugo site."
+  author = "John Doe"
+  authorEmail = "name@example.com"
+  authorImage = "/White_icon.svg"
+  autoDarkMode = true
+
+  copyright = "Copyright © 2021 - John Doe · All rights reserved"
+  favicon = "/B_icon.ico"
+
+[params.homepage]
+  title = "Welcome to GMEX 👋"
+  tagline = "🚧 Under Construction"
+  description = "Please bear with us as we embark on a turbo-charged, caffeine-fueled marathon to bring this system to life!"
+  contact = "https://twitter.com/"
+
+[params.homepage.social]
+  twitter = "https://twitter.com/"
+  linkedin = "https://linkedin.com/in/"
+  medium = "https://medium.com/"
+  reddit = "https://reddit.com/"
+  telegram = "https://t.me"
