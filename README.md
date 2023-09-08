@@ -1,2 +1,0 @@
-# gmexcomingsoon
-Coming soon
