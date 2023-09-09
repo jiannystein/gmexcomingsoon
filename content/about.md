@@ -21,13 +21,13 @@ At GMEX, our vision is to empower individuals to take control of their financial
 
 ## What We Offer
 
-Secure Investments: Your financial security is our top priority. We provide a range of investment options that are carefully vetted and designed to minimize risk. Whether you're a seasoned investor or just starting, GMEX has options tailored to your needs.
+**Secure Investments**: Your financial security is our top priority. We provide a range of investment options that are carefully vetted and designed to minimize risk. Whether you're a seasoned investor or just starting, GMEX has options tailored to your needs.
 
-Multi-Level Marketing: We offer an exciting multi-level marketing program that allows you to grow your income through strategic marketing efforts. Our system is designed to reward both individual efforts and team collaboration, making it a powerful way to generate additional income.
+**Multi-Level Marketing**: We offer an exciting multi-level marketing program that allows you to grow your income through strategic marketing efforts. Our system is designed to reward both individual efforts and team collaboration, making it a powerful way to generate additional income.
 
-Innovative Marketing Tools: We provide a suite of cutting-edge marketing tools and resources to help you succeed in the competitive world of multi-level marketing. From personalized marketing plans to training materials, we've got you covered.
+**Innovative Marketing Tools**: We provide a suite of cutting-edge marketing tools and resources to help you succeed in the competitive world of multi-level marketing. From personalized marketing plans to training materials, we've got you covered.
 
-Expert Guidance: Our team of financial and marketing experts is here to support you every step of the way. Whether you have questions about your investments or need advice on your marketing strategy, we're here to help.
+**Expert Guidance**: Our team of financial and marketing experts is here to support you every step of the way. Whether you have questions about your investments or need advice on your marketing strategy, we're here to help.
 
 ## Why Choose GMEX
 
