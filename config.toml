@@ -1,6 +1,6 @@
 theme = "showfolio"
 languageCode = "en-us"
-baseurl = "https://unrivaled-meerkat-839b64.netlify.app/"
+baseurl = "https://gmex.global"
 title = "GMEX"
 
 [params]
@@ -18,11 +18,11 @@ title = "GMEX"
   title = "Welcome to GMEX 👋"
   tagline = "🚧 Under Construction"
   description = "Please bear with us as we embark on a turbo-charged, caffeine-fueled marathon to bring this system to life!"
-  contact = "https://twitter.com/"
+  contact = "mailto:admin+prelaunch@gmex.global"
 
 [params.homepage.social]
-  twitter = "https://twitter.com/"
-  linkedin = "https://linkedin.com/in/"
-  medium = "https://medium.com/"
-  reddit = "https://reddit.com/"
-  telegram = "https://t.me"
+  facebook = "https://www.facebook.com/profile.php?id=61550640038309"
+  twitter = "https://twitter.com/GMEX_Global"
+  medium = "https://medium.com/@gmexglobal"
+  telegram = "https://t.me/GMEXGlobal"
+  tiktok = "https://www.tiktok.com/@gmexglobal"
