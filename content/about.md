@@ -1,6 +1,6 @@
 ---
 author: John Doe
-title: About Us and What do we do
+title: About GMEX
 date: 2023-04-24
 description: GMEX | Exchange Center | Marketing Strategies
 keywords: ["about-us", "exchange center", "contact"]
