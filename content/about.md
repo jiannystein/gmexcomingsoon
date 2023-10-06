@@ -1,9 +1,9 @@
 ---
 author: John Doe
-title: About
-date: 2021-04-24
-description:
-keywords: ["about-us", "about-hugo", "contact"]
+title: About Us and What do we do
+date: 2023-04-24
+description: GMEX | Exchange Center | Marketing Strategies
+keywords: ["about-us", "exchange center", "contact"]
 featured_image: /C_full_logo.png
 type: about
 ---
@@ -13,7 +13,7 @@ Welcome to GMEX, your gateway to innovative investment opportunities and secure 
 
 ## Who We Are
 
-GMEX is a Poland-based company dedicated to revolutionizing the world of investment and multi-level marketing. We understand that financial success can be achieved through both savvy investments and strategic marketing efforts. With our expertise in these areas, we offer a unique platform that combines the best of both worlds, enabling individuals to profit safely and securely.
+GMEX is a Poland-based company dedicated to revolutionizing the world of investment and marketing strategies. We understand that financial success can be achieved through both savvy investments and strategic marketing efforts. With our expertise in these areas, we offer a unique platform that combines the best of both worlds, enabling individuals to profit safely and securely.
 
 ## Our Vision
 
