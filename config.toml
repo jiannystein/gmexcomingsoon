@@ -2,6 +2,7 @@ theme = "showfolio"
 languageCode = "en-us"
 baseurl = "https://gmex.global"
 title = "GMEX"
+enableRobotsTXT = true
 
 [params]
   name = "Showfolio Theme"
