@@ -31,6 +31,12 @@
         <a href="{{ .Permalink }}" class="hover:text-blue-800 dark:hover:text-blue-300">{{ .Title }}</a>
       </li>
       {{ end }}
+
+      {{ with .Site.GetPage "/policy" }}
+      <li>
+        <a href="{{ .Permalink }}" class="hover:text-blue-800 dark:hover:text-blue-300">{{ .Title }}</a>
+      </li>
+      {{ end }}
       
       {{ with .Site.GetPage "/blog" }}
       <li>
