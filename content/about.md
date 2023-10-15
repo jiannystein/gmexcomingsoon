@@ -13,7 +13,7 @@ Welcome to GMEX, your gateway to innovative investment opportunities and secure 
 
 ## Who We Are
 
-GMEX, headquartered in Poland, is a pioneering company dedicated to reshaping the landscape of investment and marketing strategies. We recognize that financial success is the outcome of astute investments and strategic marketing endeavors. Drawing on our expertise in these domains, we've crafted a distinctive platform that fuses the best of both worlds. This innovative approach empowers individuals to profit with confidence and security.
+GMEX, headquartered in Canada, is a pioneering company dedicated to reshaping the landscape of investment and marketing strategies. We recognize that financial success is the outcome of astute investments and strategic marketing endeavors. Drawing on our expertise in these domains, we've crafted a distinctive platform that fuses the best of both worlds. This innovative approach empowers individuals to profit with confidence and security.
 
 ## Our Vision
 
